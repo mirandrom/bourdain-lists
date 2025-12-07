@@ -12,72 +12,72 @@ On November 26, HN user gregsadetsky [posted a compilation of "Anthony Bourdain'
   </thead>
   <tbody>
     <tr>
-      <td><a href="parsed_html/li.st_Bourdain_things-i-no-longer-have-time-or-patience-for-1UsJAtbmYp0qxlBQSLbl2W">Things I No Longer Have Time or Patience For</td>
-      <td>4/28/2016</a></td>
+      <td><a href="parsed_html/li.st_Bourdain_things-i-no-longer-have-time-or-patience-for-1UsJAtbmYp0qxlBQSLbl2W">Things I No Longer Have Time or Patience For</a></td>
+      <td>4/28/2016</td>
     </tr>
     <tr>
-      <td><a href="parsed_html/li.st_Bourdain_nice-views-1KMXqnoUWrWiDzcDN7MYZV">Nice Views</td>
-      <td>3/4/2016</a></td>
+      <td><a href="parsed_html/li.st_Bourdain_nice-views-1KMXqnoUWrWiDzcDN7MYZV">Nice Views</a></td>
+      <td>3/4/2016</td>
     </tr>
     <tr>
-      <td><a href="parsed_html/li.st_Bourdain_if-i-were-trapped-on-a-desert-island-with-only-three-tv-series-6BnoIWYoh1HicApAsKdzVV">If I Were Trapped on a Desert Island With Only Three TV Series</td>
-      <td>3/2/2016</a></td>
+      <td><a href="parsed_html/li.st_Bourdain_if-i-were-trapped-on-a-desert-island-with-only-three-tv-series-6BnoIWYoh1HicApAsKdzVV">If I Were Trapped on a Desert Island With Only Three TV Series</a></td>
+      <td>3/2/2016</td>
     </tr>
     <tr>
-      <td><a href="parsed_html/li.st_Bourdain_the-film-nobody-ever-made-3mgfdMsKHaJ00f0sYGYlfs">The Film Nobody Ever Made</td>
-      <td>2/25/2016</a></td>
+      <td><a href="parsed_html/li.st_Bourdain_the-film-nobody-ever-made-3mgfdMsKHaJ00f0sYGYlfs">The Film Nobody Ever Made</a></td>
+      <td>2/25/2016</td>
     </tr>
     <tr>
-      <td><a href="parsed_html/li.st_Bourdain_i-want-them-back-5EAiX66WSzxuFJlbJ7cssl">I Want Them Back</td>
-      <td>1/23/2016</a></td>
+      <td><a href="parsed_html/li.st_Bourdain_i-want-them-back-5EAiX66WSzxuFJlbJ7cssl">I Want Them Back</a></td>
+      <td>1/23/2016</td>
     </tr>
     <tr>
-      <td><a href="parsed_html/li.st_Bourdain_objects-of-desire-205C8woLZ8qID1mskkDn4z">Objects of Desire</td>
-      <td>1/21/2016</a></td>
+      <td><a href="parsed_html/li.st_Bourdain_objects-of-desire-205C8woLZ8qID1mskkDn4z">Objects of Desire</a></td>
+      <td>1/21/2016</td>
     </tr>
     <tr>
-      <td><a href="">David Bowie Related</td>
-      <td>1/14/2016</a></td>
+      <td><a href="">David Bowie Related</a></td>
+      <td>1/14/2016</td>
     </tr>
     <tr>
-      <td><a href="parsed_html/li.st_Bourdain_four-spy-novels-by-real-spies-and-one-not-by-a-spy-1UsIx7MDcvv7HuPrd2YjM8">Four Spy Novels by Real Spies and One Not by a Spy</td>
-      <td>11/6/2015</a></td>
+      <td><a href="parsed_html/li.st_Bourdain_four-spy-novels-by-real-spies-and-one-not-by-a-spy-1UsIx7MDcvv7HuPrd2YjM8">Four Spy Novels by Real Spies and One Not by a Spy</a></td>
+      <td>11/6/2015</td>
     </tr>
     <tr>
-      <td><a href="">Hotel Slut (That’s Me)</td>
-      <td>11/7/2015</a></td>
+      <td><a href="">Hotel Slut (That’s Me)</a></td>
+      <td>11/7/2015</td>
     </tr>
     <tr>
-      <td><a href="parsed_html/li.st_Bourdain_steaming-hot-porn-5hqohJ4af5blrHINxY8OqM">Steaming Hot Porn</td>
-      <td>10/18/2015</a></td>
+      <td><a href="parsed_html/li.st_Bourdain_steaming-hot-porn-5hqohJ4af5blrHINxY8OqM">Steaming Hot Porn</a></td>
+      <td>10/18/2015</td>
     </tr>
     <tr>
-      <td><a href="parsed_html/li.st_Bourdain_5-photos-on-my-phone-chosen-at-random-0nsXCpUt69UbZvcMsOh4P3">5 Photos on My Phone, Chosen at Random</td>
-      <td>10/16/2015</a></td>
+      <td><a href="parsed_html/li.st_Bourdain_5-photos-on-my-phone-chosen-at-random-0nsXCpUt69UbZvcMsOh4P3">5 Photos on My Phone, Chosen at Random</a></td>
+      <td>10/16/2015</td>
     </tr>
     <tr>
-      <td><a href="parsed_html/li.st_Bourdain_people-i-d-like-to-be-for-a-day-6RzWK74FUhdiWyRc1GTaeM">People I’d Like to Be for a Day</td>
-      <td>10/15/2015</a></td>
+      <td><a href="parsed_html/li.st_Bourdain_people-i-d-like-to-be-for-a-day-6RzWK74FUhdiWyRc1GTaeM">People I’d Like to Be for a Day</a></td>
+      <td>10/15/2015</td>
     </tr>
     <tr>
-      <td><a href="parsed_html/li.st_Bourdain_i-m-hungry-and-would-be-very-happy-to-eat-any-of-this-right-now-1pp6u1q4z0aDg3e4LOVbMn">I’m Hungry and Would Be Very Happy to Eat Any of This Right Now</td>
-      <td>10/2/2015</a></td>
+      <td><a href="parsed_html/li.st_Bourdain_i-m-hungry-and-would-be-very-happy-to-eat-any-of-this-right-now-1pp6u1q4z0aDg3e4LOVbMn">I’m Hungry and Would Be Very Happy to Eat Any of This Right Now</a></td>
+      <td>10/2/2015</td>
     </tr>
     <tr>
-      <td><a href="parsed_html/li.st_Bourdain_observations-from-a-beach-0X3d0NujKKomnM2HIukguv">Observations From a Beach</td>
-      <td>9/27/2015</a></td>
+      <td><a href="parsed_html/li.st_Bourdain_observations-from-a-beach-0X3d0NujKKomnM2HIukguv">Observations From a Beach</a></td>
+      <td>9/27/2015</td>
     </tr>
     <tr>
-      <td><a href="parsed_html/li.st_Bourdain_guilty-pleasures-1UslAzn8zE50JJvhbBmMmu">Guilty Pleasures</td>
-      <td>9/23/2015</a></td>
+      <td><a href="parsed_html/li.st_Bourdain_guilty-pleasures-1UslAzn8zE50JJvhbBmMmu">Guilty Pleasures</a></td>
+      <td>9/23/2015</td>
     </tr>
     <tr>
-      <td><a href="parsed_html/li.st_Bourdain_some-new-york-sandwiches-1UsJj9WoWSEIEEAhdMu2EK">Some New York Sandwiches</td>
-      <td>9/5/2015</a></td>
+      <td><a href="parsed_html/li.st_Bourdain_some-new-york-sandwiches-1UsJj9WoWSEIEEAhdMu2EK">Some New York Sandwiches</a></td>
+      <td>9/5/2015</td>
     </tr>
     <tr>
-      <td><a href="parsed_html/li.st_Bourdain_great-dead-bars-of-new-york-1UsJAwt2gvx85J4MeUca5A">Great Dead Bars of New York</td>
-      <td>8/19/2015</a></td>
+      <td><a href="parsed_html/li.st_Bourdain_great-dead-bars-of-new-york-1UsJAwt2gvx85J4MeUca5A">Great Dead Bars of New York</a></td>
+      <td>8/19/2015</td>
     </tr>
   </tbody>
 </table>
