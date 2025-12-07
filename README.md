@@ -2,6 +2,7 @@
 
 ## Background
 On November 26, HN user gregsadetsky [posted a compilation of "Anthony Bourdain's Lost Li.st's"](https://news.ycombinator.com/item?id=46054879), including a table of those that are still lost. A lot of these seem fun and interesting, so I decided to try and find them. Just because they aren't on the Internet Archive, doesn't mean they haven't been saved somewhere else. It turns out that somewhere else is **Common Crawl**. I've downloaded and parsed most of these and included links in the table below. 
+Unfortunately, I wasn't able to find a way to also scrape embedded images, which seem to point to dead cloudfront urls not indexed by Common Crawl. 
 
 <table>
   <thead>
