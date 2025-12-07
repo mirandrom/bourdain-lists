@@ -65,7 +65,8 @@ def main():
                 fname = f"duplicates/{fname}-{fname_duplicates[fname]}"
             else:
                 fname_duplicates[fname] = 0
-            
+                
+            fname = f"{fname}.html"
             out_path = out_dir / fname
             out_path.parent.mkdir(parents=True, exist_ok=True)
             with open(out_path, "wb") as out_f:
