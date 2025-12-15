@@ -1,4 +1,8 @@
 # Finding Anthony Bourdain's Lost Li.st's in Common Crawl
+Link to github for code: https://github.com/mirandrom/bourdain-lists/  
+
+**Update**: another HN user [*thecsw* ended up doing the same thing](https://news.ycombinator.com/item?id=46258163), check out their website for much more polished results:  
+https://sandyuraz.com/blogs/bourdain/ 
 
 ## Background
 On November 26, HN user gregsadetsky [posted a compilation of "Anthony Bourdain's Lost Li.st's"](https://news.ycombinator.com/item?id=46054879), including a table of those that are still lost. A lot of these seem fun and interesting, so I decided to try and find them. Just because they aren't on the Internet Archive, doesn't mean they haven't been saved somewhere else. It turns out that somewhere else is **Common Crawl**. I've downloaded and parsed most of these and included links in the table below. 
@@ -37,7 +41,7 @@ Unfortunately, I wasn't able to find a way to also scrape embedded images, which
       <td>1/21/2016</td>
     </tr>
     <tr>
-      <td><a href=".html" target="_blank">David Bowie Related</a></td>
+      <td><a>David Bowie Related</a></td>
       <td>1/14/2016</td>
     </tr>
     <tr>
@@ -45,7 +49,7 @@ Unfortunately, I wasn't able to find a way to also scrape embedded images, which
       <td>11/6/2015</td>
     </tr>
     <tr>
-      <td><a href=".html" target="_blank">Hotel Slut (That’s Me)</a></td>
+      <td><a>Hotel Slut (That’s Me)</a></td>
       <td>11/7/2015</td>
     </tr>
     <tr>
